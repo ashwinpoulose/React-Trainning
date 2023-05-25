@@ -1,0 +1,31 @@
+body {
+    background-color: #f2f2f2;
+  }
+
+  label {
+    color: blue;
+  }
+
+  .submit-button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  .center {
+margin: auto;
+width: 60%;
+border: 3px solid #070707;
+padding: 10px;
+}
+
+  .inputbox {
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+    background-color:coral;
+  }
+  div{
+      background-color: rgb(144, 151, 149);
+  }
